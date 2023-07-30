@@ -1,4 +1,4 @@
-# image-preprocessing ( updated)
+# image-preprocessing 
 the file image segmentation displays results i reached so far
 the source code are provided in the other files
 the feature extraction is still in process
